@@ -21,3 +21,5 @@ BubbleSugarMilkTeas ($ 6.75) : 41. BrownSugarBubble 42. MangoSugarBubble 43. Str
 Others ($ 1.25) : 44. Water 45. Soda 46. Chips
 
 Add Bubble : $ 0.99
+
+Tax : $ 0.42
